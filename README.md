@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/master/images/developer.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/master/images/developer.svg" /> -->
 <!-- Here are some ideas to get you started:
 ### Languages and Tools: -->
 <p>
