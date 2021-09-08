@@ -1,4 +1,6 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/33197783/132467652-3109a678-830c-414b-a3d5-1a05866c7780.png)
+## Hi, I am Sata, a software developer👋
+
 
 <!--
 **Mangosata/Mangosata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mangosata's github stats](https://github-readme-stats.vercel.app/api?username=Mangosata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mangosata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<!-- [![Mangosata's github stats](https://github-readme-stats.vercel.app/api?username=Mangosata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
