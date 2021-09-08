@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/33197783/132467652-3109a678-830c-414b-a3d5-1a05866c7780.png)
 ## Hi, I am Sata, a software developer👋
 
-
+<img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/main/image/developer.svg" />
 <!--
 **Mangosata/Mangosata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
