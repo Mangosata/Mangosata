@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 
 
 <!-- <img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/master/images/developer.svg" /> -->
-<!-- Here are some ideas to get you started:
-### Languages and Tools: -->
+- 🔭 I’m currently working on Meituan
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on blockchain
+- 💬 Ask me about anything
+- 📫 How to reach me: mangosata@gmail.com
+<!-- ### Languages and Tools: -->
 <p>
   <img  alt="GanymedeNil's github stats" width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mangosata&show_icons=true&theme=dracula">
 </p>
