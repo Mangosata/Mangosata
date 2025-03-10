@@ -10,9 +10,9 @@
 
 <!-- <img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/master/images/developer.svg" /> -->
 
-- 🔭 I’m currently working on Loblaw Digital
+- 🔭 I’m currently working on NovaGrid
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on blockchain and AR
+- 👯 With a dream to change the world
 - 💬 Ask me about anything
 - 📫 How to reach me: mangosata@gmail.com
 <!-- ### Languages and Tools: -->
