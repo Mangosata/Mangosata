@@ -10,7 +10,7 @@
 
 <!-- <img width="55%" align="right" alt="Github" src="https://github.com/Mangosata/Mangosata/blob/master/images/developer.svg" /> -->
 
-- 🔭 I’m currently working on NovaGrid
+- 🔭 I’m currently working on Novagrid.AI
 - 🌱 I’m currently learning everything
 - 👯 With a dream to change the world
 - 💬 Ask me about anything
